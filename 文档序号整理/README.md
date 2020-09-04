@@ -1,5 +1,6 @@
 # 文档序号整理
 1.最新版本需要使用如下方法做adb remount
+
     Ubuntu系统
     1、在开发者选项里开启OEM unlocking(如果OEM unlocking显示灰色，则表示设备已经处于unlock状态，可以直接跳到第6步操作)
     2、adb reboot bootloader
@@ -25,6 +26,7 @@
 
 	
 2.V830/V730 MTK6762 Q：
+
     http://192.168.160.3/mediawiki/index.php/V830/V730_MTK6762_Q#userdebug.E7.89.88.E6.9C.ACremount.E7.9A.84.E5.91.BD.E4.BB.A4
 
 
